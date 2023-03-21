@@ -35,3 +35,4 @@ You can now access the dev server running at [localhost:5173](https://localhost:
 Commit the repository to GitHub and select it when creating a new Vercel deployment.
 
 Don't forget to set the `OPENAI_KEY` environment variable within your Vercel project settings.
+# chatbot
